@@ -3,12 +3,13 @@
 
 @inject NavigationManager NavigationManager
 @inject Blazored.LocalStorage.ILocalStorageService LocalStorage
+@inject IStringLocalizer<SharedResources> Localizer
 
 <PageTitle>Index</PageTitle>
 
 <h1>Hello, world!</h1>
 
-Welcome to your new app.
+@Localizer["HomeDescription"]
 
 <SurveyPrompt Title="How is Blazor working for you?" />
 

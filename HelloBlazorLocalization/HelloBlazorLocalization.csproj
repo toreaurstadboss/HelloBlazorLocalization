@@ -18,6 +18,7 @@
 
   <ItemGroup>
     <Folder Include="Shared\Resources\" />
+    <Folder Include="wwwroot\flag-icons\" />
   </ItemGroup>
 
   <ItemGroup>

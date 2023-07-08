@@ -117,7 +117,25 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Counter" xml:space="preserve">
+    <value>Counter</value>
+  </data>
   <data name="CurrentCount" xml:space="preserve">
     <value>Current count</value>
+  </data>
+  <data name="FetchData" xml:space="preserve">
+    <value>Fetch data</value>
+  </data>
+  <data name="Home" xml:space="preserve">
+    <value>Home</value>
+  </data>
+  <data name="HomeDescription" xml:space="preserve">
+    <value>Velkommen til din nye app !</value>
+  </data>
+  <data name="WeatherForecast" xml:space="preserve">
+    <value>Værmelding</value>
+  </data>
+  <data name="WeatherForecastDescription" xml:space="preserve">
+    <value>Denne komponenten demonstrere å hente data fra server.</value>
   </data>
 </root>
