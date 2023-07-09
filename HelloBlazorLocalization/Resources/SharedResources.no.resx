@@ -130,7 +130,7 @@
     <value>Hjem</value>
   </data>
   <data name="HomeDescription" xml:space="preserve">
-    <value>Welcome to your new app.</value>
+    <value>Velkommen til din nye app!</value>
   </data>
   <data name="WeatherForecast" xml:space="preserve">
     <value>Værmelding</value>

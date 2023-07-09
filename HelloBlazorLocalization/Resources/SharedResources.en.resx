@@ -130,12 +130,12 @@
     <value>Home</value>
   </data>
   <data name="HomeDescription" xml:space="preserve">
-    <value>Velkommen til din nye app !</value>
+    <value>Welcome to your new app!</value>
   </data>
   <data name="WeatherForecast" xml:space="preserve">
-    <value>Værmelding</value>
+    <value>Weather forecast</value>
   </data>
   <data name="WeatherForecastDescription" xml:space="preserve">
-    <value>Denne komponenten demonstrere å hente data fra server.</value>
+    <value>This component fetches data from the server</value>
   </data>
 </root>

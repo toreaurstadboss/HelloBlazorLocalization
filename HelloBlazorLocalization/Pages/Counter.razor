@@ -5,12 +5,8 @@
 @inject IStringLocalizer<SharedResources> Localizer
 
 
-<PageTitle>Counter</PageTitle>
-<h1>Counter</h1>
-
-Current culture set up :
-CurrentCulture : @CultureInfo.CurrentCulture
-
+<PageTitle>@Localizer["Counter"]</PageTitle>
+<h1>@Localizer["Counter"]</h1>
 
 <p role="status"> @Localizer["CurrentCount"]: @currentCount</p>
 <button class="btn btn-primary" @onclick="IncrementCount">@Localizer["CurrentCount"]</button>
