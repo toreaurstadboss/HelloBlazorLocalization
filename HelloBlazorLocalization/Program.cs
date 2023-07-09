@@ -24,4 +24,6 @@ builder.Services.AddLocalization(options =>
 
 builder.Services.AddBlazoredLocalStorage();
 
+await builder.Services.BuildServiceProvider().SetDefaultCultureAsync();
+
 await builder.Build().RunAsync();
